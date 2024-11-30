@@ -11,12 +11,12 @@ So it's been some time. These last few weeks, I've been able to think about what
 The way I'm structuring this, it's like I'm taking a part time semester of "shree university". 
 
 *Key*
-MUS: Music
-JB: Career Interview/Application/LinkedIn
-DTA: Data Science Path
-GMDV: Game Development
-FT: Fitness
-FLM: Film
+- MUS: Music
+- JB: Career Interview/Application/LinkedIn
+- DTA: Data Science Path
+- GMDV: Game Development
+- FT: Fitness
+- FLM: Film
 
 **Monday**
 - 4:30PM to 5:30PM: MUS200 (Drum Lesson)
