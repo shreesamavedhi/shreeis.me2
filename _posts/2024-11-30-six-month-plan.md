@@ -13,38 +13,38 @@ The way I'm structuring this, it's like I'm taking a part time semester of "shre
 *Key*
 - MUS: Music
 - JB: Career Interview/Application/LinkedIn
-- DTA: Data Science Path
+- CYBR: Cyber Security Path
 - GMDV: Game Development
-- FT: Fitness
+- FIT: Fitness
 - FLM: Film
 
 **Monday**
-- 4:30PM to 5:30PM: MUS200 (Drum Lesson)
-- 7:00PM to 8:00PM: JB125 (Neetcode Lecture + Homework)
+- 4:30PM to 5:30PM: Drum Lesson (MUS)
+- 7:00PM to 8:00PM: Neetcode (JB)
 
 **Tuesday**
-- 5:00PM to 6:00PM: DTA101 (Machine Learning Plus Lecture/Homework/Quiz)
-- 7:00PM to 8:30PM: GMDV200 (Video Game Development. Includes coding, digital art, animation, etc.)
+- 5:00PM to 6:00PM: HackTheBox (CYBR)
+- 7:00PM to 8:30PM: Video Game Development (GMDV)
 
 **Wednesday**
-- 5:00PM to 6:00PM: JB125 (Neetcode Lecture + Homework)
-- 7:00PM to 7:30PM: JB100 (Apply to 5 positions)
+- 5:00PM to 6:00PM: Neetcode (JB)
+- 7:00PM to 7:30PM: LinkedIn Jobs/Interact (JB)
 
 **Thursday**
-- 5:00PM to 6:00PM: DTA101 (Machine Learning Plus Lecture/Homework/Quiz)
-- 6:30PM to 8:30PM: FT220 (Group Climbing Discussion)
+- 5:00PM to 6:00PM: HackTheBox (CYBR)
+- 6:30PM to 8:30PM: Group Climbing (FIT)
 
 **Friday**
-- 5:00PM to 6:30PM: MUS345 (Music Composition + Production Lessons/Project)
+- 5:00PM to 6:30PM: Music Composition + Production Lessons/Project (MUS)
 
 **Weekend**
-- 1hr FLM342 (Writing and Filming Homework)
-- 1.5hr FT221 (Supplementary Climbing)
-- 1hr GMDV201 (Playing Video Games)
+- 1hr Writing and Filming (FLM)
+- 1.5hr Supplementary Climbing (FIT)
+- 1hr Playing Video Games (GMDV)
 
 I'm going to stick by this plan for 6 months. If I want this to be sustainable, I need time to breathe after work, and breathe on the weekends. I need a way to track my progress, so I'll be counting "attendance" and self-assigning my grade for each "course" based on this. All I need to do to succeed is stick to this schedule. That is it.
 
-Oh, and as a bonus of how I'll be tracking attendance: After each day of "lessons", I'll make a blog post here going over what I learned/accomplished. 
+Oh, and as a bonus of how I'll be tracking attendance: After each week of "lessons", I'll make a blog post here going over what I learned/accomplished. 
 
 While this is perhaps the most cringe thing I've had to do for my goals, it's necessary. 
 
